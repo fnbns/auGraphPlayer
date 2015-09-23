@@ -167,9 +167,6 @@ Float64 PrepareFileAU(AwesomeAUGraphPlayer *player)
 }
 
 
-//7.7-7.13
-//7.14 - 7.17
-
 
 #pragma mark main function
 
